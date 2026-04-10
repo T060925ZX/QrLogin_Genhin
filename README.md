@@ -66,9 +66,7 @@ python main.py
 
 ## 📜 许可证
 
-本项目采用 **CC BY-NC 4.0**（知识共享署名-非商业性使用 4.0 国际）许可协议。
-
-**禁止商用** - 不得将本软件用于任何商业目的。
+本项目采用 **GNU General Public License v3.0 (GPL-3.0)** 许可协议。
 
 详见 [LICENSE](LICENSE) 文件。
 
