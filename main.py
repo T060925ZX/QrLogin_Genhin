@@ -502,6 +502,8 @@ def CloudGameLogin(tk, token_types):
  
 print("="*50)
 print("原神抢码登录工具 v2.2 (极速版)")
+print("开源地址：https://github.com/T060925ZX/QrLogin_Genhin")
+print("本项目完全免费，如果你是购买获得，那么你被骗了")
 print("="*50)
 print(f"扫描间隔: {SCAN_INTERVAL*1000:.0f}ms")
 print(f"HTTP超时: {HTTP_TIMEOUT}s")
