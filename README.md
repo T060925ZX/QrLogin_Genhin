@@ -1,4 +1,4 @@
-# 原神抢码登录工具
+# 马哈鱼抢码登录工具
 
 ## 📦 项目文件
 
@@ -31,7 +31,12 @@ python main.py
 
 ## 📝 Cookie获取
 
+### 方法一
+
 1. 给你的Yunzai发送 我的stoken （私聊）
+
+
+### 方法二
 
 1. 浏览器打开 https://account.mihoyo.com/
 2. 登录账号
